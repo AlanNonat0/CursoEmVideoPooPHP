@@ -1,0 +1,17 @@
+Luta		
+-----------------
+- desafiado 	
+- desafiante		
+- aprovada	
+------------------
+marcarLuta()	
+lutar()		
+----------------+
+
+AGREGAÇÃO
+
+Em UML é representada por uma linha solida e um losango branco na ponta,
+todo relacionamento tem um papel, no caso esse tem DISPUTA.
+
+Um lutador pode participar de 0..1 luta.
+e uma luta * pode ser disputadas por varios lutadores
